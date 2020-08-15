@@ -1,3 +1,6 @@
+我们有很急切的事寻求您的帮忙！请第一时间联系我，电话/微信：17512549214 邮箱：2259461527@qq.com 
+
+
 # Synergy Core
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
